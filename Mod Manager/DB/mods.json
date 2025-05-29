@@ -2,13 +2,13 @@
   "version": "1.0.2",
   "mods": [
     {
-      "id": "iris_t_mod",
-      "title": "IRIS-T for Tornado IDS",
-      "creator": "AceDev",
-      "description_url": "https://live.warthunder.com/post/1234567/",
+      "id": "de_iris_t",
+      "title": "IRIS-T Missile",
+      "creator": "YuikoArashi",
+      "description_url": "https://live.warthunder.com/post/1140540/en/",
       "image_url": "https://live.warthunder.com/data/post/1234567/image.jpg",
-      "mod_file_url": "https://yourhost.com/mods/iris_t_mod.zip",
-      "file_name": "iris_t_mod.zip"
+      "mod_file_url": "https://live.warthunder.com/dl/e6b05f90df4a153c119746007523ac4fa20f54ea/",
+      "file_name": "de_iris_t_v1.01.zip"
     },
     {
       "id": "su25_laserbombs",

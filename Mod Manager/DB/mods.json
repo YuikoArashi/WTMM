@@ -25,8 +25,8 @@
       "creator": "Avarik",
       "description_url": "https://live.warthunder.com/post/1138660/en/",
       "image_url": "https://cdn-live.warthunder.com/uploads/df/48/6d/f67e41502e9b6ee4d3808a91dde8d7623d_mq/Nigel%27s+Return+to+War+Thunder_10.png",
-      "mod_file_url": "https://live.warthunder.com/dl/5fcab24b75b4e89aa5ac53d0992d5688bcc26ce5/",
-      "file_name": "atz_x_02a_free_flight_v1.02.zip"
+      "mod_file_url": "https://live.warthunder.com/dl/1f003df2fd611a991a567d63e6e92c3a2a9ce6ab/",
+      "file_name": "mosquito_fb_mk18_nigel_v1.0p"
     },
     {
       "id": "mark_iv_75",
@@ -36,15 +36,6 @@
       "image_url": "https://cdn-live.warthunder.com/uploads/21/7a/df/3916204a7739116a9deae369647f3c7e15_mq/Screenshot_1758.png",
       "mod_file_url": "https://live.warthunder.com/dl/3475cf40d19fc37a21c91a2fab15812d0108bcef/",
       "file_name": "beutepanzer_iv_1945_v1.1.zip"
-    },
-    {
-      "id": "x_02a",
-      "title": "X-02A Wyvern",
-      "creator": "Avarik",
-      "description_url": "https://live.warthunder.com/post/1133169/en/",
-      "image_url": "https://cdn-live.warthunder.com/uploads/81/7b/4c/c8807e751bcd150c2225836f55a3518ba6_mq/shot+2025.03.16+02.05.21+hires.jpg",
-      "mod_file_url": "https://live.warthunder.com/dl/5fcab24b75b4e89aa5ac53d0992d5688bcc26ce5/",
-      "file_name": "atz_x_02a_free_flight_v1.02.zip"
     }
   ]
 }

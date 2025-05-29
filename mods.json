@@ -1,0 +1,23 @@
+{
+  "version": "1.0.2",
+  "mods": [
+    {
+      "id": "iris_t_mod",
+      "title": "IRIS-T for Tornado IDS",
+      "creator": "AceDev",
+      "description_url": "https://live.warthunder.com/post/1234567/",
+      "image_url": "https://live.warthunder.com/data/post/1234567/image.jpg",
+      "mod_file_url": "https://yourhost.com/mods/iris_t_mod.zip",
+      "file_name": "iris_t_mod.zip"
+    },
+    {
+      "id": "su25_laserbombs",
+      "title": "Laser-Guided Bombs for Su-25",
+      "creator": "ModSmith",
+      "description_url": "https://live.warthunder.com/post/7654321/",
+      "image_url": "https://live.warthunder.com/data/post/7654321/image.png",
+      "mod_file_url": "https://yourhost.com/mods/su25_laserbombs.zip",
+      "file_name": "su25_laserbombs.zip"
+    }
+  ]
+}

@@ -1,1 +1,1 @@
-# WTMM aka Hangar
+# War Thunder Mod Manager aka Hangar
